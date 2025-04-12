@@ -1,0 +1,7 @@
+# Enchantments 插件配置文件
+
+enchantment-extractor:
+  # 提取附魔所需的最低经验等级
+  required-level: 10
+  # 提取成功的消息
+  success-message: "&a成功提取附魔！消耗了10级经验！"

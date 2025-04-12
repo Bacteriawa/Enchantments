@@ -1,0 +1,5 @@
+name: Enchantments
+version: '1.0'
+main: dev.bacteriawa.Enchantments
+api-version: '1.21'
+folia-supported: true
